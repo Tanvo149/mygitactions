@@ -7,4 +7,4 @@ def bye():
 
 
 print(hello())
-print(sda)
+print(bye())
